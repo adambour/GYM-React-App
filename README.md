@@ -19,13 +19,13 @@ The **GYM React Landing Page** is a single-page web application built using Reac
   
 ## Screen-shot
 
-![Header](./screnshot/Capture%20d'écran%202024-09-23%20223315.png)
+![Header](./screnshot/Capture%20d'écran%202024-09-23%20223315.png)              ![Feature](./screnshot/Capture%20d'écran%202024-09-23%20223334.png)
 
-![Feature](./screnshot/Capture%20d'écran%202024-09-23%20223334.png)
 
-![Offer](./screnshot/Capture%20d'écran%202024-09-23%20223401.png)
 
-![About](./screnshot/Capture%20d'écran%202024-09-23%20223411.png)
+![Offer](./screnshot/Capture%20d'écran%202024-09-23%20223401.png)               ![About](./screnshot/Capture%20d'écran%202024-09-23%20223411.png)
+
+
 
 ![Contact](./screnshot/Capture%20d'écran%202024-09-23%20223422.png)
 
